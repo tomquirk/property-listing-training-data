@@ -1,0 +1,104 @@
+{
+  "py/object": "realestate_com_au.objects.listing.Listing",
+  "id": "141174260",
+  "badge": null,
+  "url": "https://www.realestate.com.au/property-house-wa-margaret+river-141174260",
+  "suburb": "Margaret River",
+  "state": "WA",
+  "postcode": "6285",
+  "short_address": "5 Cercis Way",
+  "full_address": "5 Cercis Way, Margaret River, WA 6285",
+  "property_type": "house",
+  "price": 625000,
+  "price_text": "From $625,000",
+  "bedrooms": 4,
+  "bathrooms": 2,
+  "parking_spaces": 2,
+  "building_size": null,
+  "building_size_unit": null,
+  "land_size": 752.0,
+  "land_size_unit": "m\u00b2",
+  "listing_company_id": "XFNMAV",
+  "listing_company_name": "Margaret River Real Estate First National - Margaret River",
+  "listing_company_phone": "0897579333",
+  "auction_date": null,
+  "available_date": null,
+  "sold_date": null,
+  "description": "This near new 4 bedrooms, 2 bathrooms, open plan kitchen, living and dining area plus separate media room family  home is superbly located in close to parks, playground, the forest and Rapids Landing Primary School.<br/><br/>The western wing of the home houses the luxurious master suite which is spacious and opens to the outdoors. It includes walk in robes and a stylish ensuite with double shower, large vanity and black tapware.  The adjacent private media room is of generous proportions and will keep the kids entertained for hours or perfect for setting up for your family movie nights.<br/><br/>The second and third bedrooms are located in a separate wing, are both king size and include built in robes. The fourth bedroom is multifunctional and is currently being used for the home office, but could suit a home gym, craft room or playroom.  The main bathroom is located in this wing and includes an extra deep bath tub. The galley style kitchen is well equipped and includes 900mm appliances and a long central breakfast bar. The kitchen overlooks the living and dining areas and beyond to the private and sheltered al fresco and back yard and the laundry room is cleverly tucked away into an alcove next to the kitchen.  Both the living and dining areas open to the al fresco, creating a superb space to entertain and relax.<br/><br/>This home is situated on a massive 672m2 block and there is a good sized  backyard with extra space for the boat, caravan or even a granny flat.<br/><br/>Built in 2019, the property is nearly new, with some finishing touches still to be done and is currently periodically leased.",
+  "images": [
+    {
+      "py/object": "realestate_com_au.objects.listing.MediaItem",
+      "link": "https://i2.au.reastatic.net/1144x888-format=webp/59717b960a849522b36cfa096f1edd6f0d5c1ff5d99411a1c9272970bb37183e/image.jpg"
+    },
+    {
+      "py/object": "realestate_com_au.objects.listing.MediaItem",
+      "link": "https://i2.au.reastatic.net/1144x888-format=webp/6dd1ad542a1f840a99ac02e994639ee442da0d3d66fe25cdfe7a4bc27d1a2b3f/image.jpg"
+    },
+    {
+      "py/object": "realestate_com_au.objects.listing.MediaItem",
+      "link": "https://i2.au.reastatic.net/1144x888-format=webp/85e9e3b5da6c4ffce135081854ad03f2ab7f0054af02031abd5d5be267332177/image.jpg"
+    },
+    {
+      "py/object": "realestate_com_au.objects.listing.MediaItem",
+      "link": "https://i2.au.reastatic.net/1144x888-format=webp/cc2bdeb94d618b46fa942b6ee3ec27e847f50bb7dbf0b2caa0b7a5b6a4113eb4/image.jpg"
+    },
+    {
+      "py/object": "realestate_com_au.objects.listing.MediaItem",
+      "link": "https://i2.au.reastatic.net/1144x888-format=webp/613263b65d72a3aa3cada719fa5f026a5518cc76f8447774fe57682a702a98a6/image.jpg"
+    },
+    {
+      "py/object": "realestate_com_au.objects.listing.MediaItem",
+      "link": "https://i2.au.reastatic.net/1144x888-format=webp/d3570c29fcf508eb9843fe1549d45e794edbc4b932d36c24175a318181f268d3/image.jpg"
+    },
+    {
+      "py/object": "realestate_com_au.objects.listing.MediaItem",
+      "link": "https://i2.au.reastatic.net/1144x888-format=webp/b2c5f4e963d53aa41f9ca93ea10f8fe9654f6f6240e280451815b8aa89f3e54d/image.jpg"
+    },
+    {
+      "py/object": "realestate_com_au.objects.listing.MediaItem",
+      "link": "https://i2.au.reastatic.net/1144x888-format=webp/4cf84a0d2be36370bdc1443bc9015007d24a7ef149355cc91b7ff76a5ae9c6a8/image.jpg"
+    },
+    {
+      "py/object": "realestate_com_au.objects.listing.MediaItem",
+      "link": "https://i2.au.reastatic.net/1144x888-format=webp/d9453e9bb4394b6dd32ec83a2e7f3523dfff5ec85967ca00f47490e36adb38ea/image.jpg"
+    },
+    {
+      "py/object": "realestate_com_au.objects.listing.MediaItem",
+      "link": "https://i2.au.reastatic.net/1144x888-format=webp/a46d13a641fe51cd4a2fbb88dcfa15eb9a3c0591bbfa174080b5dff674599fed/image.jpg"
+    },
+    {
+      "py/object": "realestate_com_au.objects.listing.MediaItem",
+      "link": "https://i2.au.reastatic.net/1144x888-format=webp/bc62f8da916cd44e4e3ad710a7429840bae8195d19813b9ee6d70f6226cfdfd3/image.jpg"
+    },
+    {
+      "py/object": "realestate_com_au.objects.listing.MediaItem",
+      "link": "https://i2.au.reastatic.net/1144x888-format=webp/3bfece511ee526a04c61e7a4f61579c5b53c7a778bda9cf2c15ae5bffb6c1431/image.jpg"
+    },
+    {
+      "py/object": "realestate_com_au.objects.listing.MediaItem",
+      "link": "https://i2.au.reastatic.net/1144x888-format=webp/2cfd3c4bf997dfe05d779f62f94ad4549493fd1bf0454cad4f554535a8d45576/image.jpg"
+    }
+  ],
+  "images_floorplans": [],
+  "listers": [
+    {
+      "py/object": "realestate_com_au.objects.listing.Lister",
+      "id": "68576",
+      "name": "Vicki Genge",
+      "agent_id": null,
+      "job_title": "Property Consultant",
+      "url": "https://www.realestate.com.au/agent/vicki-genge-68576?cid={cid}",
+      "phone": "0409587443",
+      "email": null
+    }
+  ],
+  "inspections": [
+    {
+      "py/object": "realestate_com_au.objects.listing.Inspection",
+      "start_time": "2023-01-22T10:00:00+08:00",
+      "end_time": "2023-01-22T10:30:00+08:00",
+      "label": "Open tomorrow 10:00am",
+      "label_short": "Open tomorrow"
+    }
+  ]
+}

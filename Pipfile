@@ -1,0 +1,15 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+realestate-com-au-api = {editable = true, git = "https://github.com/tomquirk/realestate-com-au-api.git"}
+jsonpickle = "*"
+openai = "*"
+pandas = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"

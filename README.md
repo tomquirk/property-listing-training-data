@@ -1,0 +1,1 @@
+openai api completions.create -m curie:ft-personal-2023-01-21-11-12-03 -M 1000 --stop " END" -p "16 Bungalow street, Minyama 4575. It is a house. It has 3 bedrooms. It has 2 bathrooms. It has 1 parking space. It is on a 790 block. It's priced at $1,000,000. \n\n###\n\n"
